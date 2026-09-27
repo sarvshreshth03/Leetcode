@@ -13,5 +13,5 @@ FROM (
     FROM Employee
 ) e
 JOIN Department d
-    ON d.Id = e.departmentId
+    ON e.departmentId=d.Id
 WHERE e.rnk <= 3;
