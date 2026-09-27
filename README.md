@@ -16,5 +16,6 @@
 | [0185-department-top-three-salaries](https://github.com/sarvshreshth03/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/sarvshreshth03/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/sarvshreshth03/Leetcode/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/sarvshreshth03/Leetcode/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/sarvshreshth03/Leetcode/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
