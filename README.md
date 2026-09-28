@@ -22,6 +22,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sarvshreshth03/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0585-investments-in-2016](https://github.com/sarvshreshth03/Leetcode/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/sarvshreshth03/Leetcode/tree/master/0595-big-countries) |
+| [0627-swap-sex-of-employees](https://github.com/sarvshreshth03/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/sarvshreshth03/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sarvshreshth03/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/sarvshreshth03/Leetcode/tree/master/1068-product-sales-analysis-i) |
