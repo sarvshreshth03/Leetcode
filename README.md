@@ -22,5 +22,6 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sarvshreshth03/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0585-investments-in-2016](https://github.com/sarvshreshth03/Leetcode/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/sarvshreshth03/Leetcode/tree/master/0595-big-countries) |
+| [1068-product-sales-analysis-i](https://github.com/sarvshreshth03/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/sarvshreshth03/Leetcode/tree/master/1070-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->
